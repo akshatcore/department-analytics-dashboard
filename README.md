@@ -81,41 +81,30 @@ The project is designed for **colleges, departments, and academic institutions**
 
 ## 🎥 Project Demonstration Videos
 
-> All videos below are recorded from the **actual running system**.
+All videos below are recorded from the actual running system.
 
 ### 👑 Admin Dashboard
-![Admin Dashboard Demo](Videos/admin_dashboard.mp4)
-
-> Shows department comparison, subject difficulty analysis, audit logs, and analytics.
+▶️ [Admin Dashboard Demo](Videos/admin_dashboard.mp4)  
+Shows department comparison, subject difficulty analysis, audit logs, and analytics.
 
 ---
 
 ### 👨‍🏫 Faculty Panel
-![Faculty Panel Demo](Videos/faculty_panel.mp4)
-
-> Demonstrates student management, marks entry, subject handling, and resource uploads.
+▶️ [Faculty Panel Demo](Videos/faculty_panel.mp4)  
+Demonstrates student management, marks entry, subject handling, and resource uploads.
 
 ---
 
 ### 🎓 Student Dashboard
-![Student Dashboard Demo](Videos/student_dashboard.mp4)
-
-> Displays marks and attendance using interactive pie charts and downloadable reports.
+▶️ [Student Dashboard Demo](Videos/student_dashboard.mp4)  
+Displays marks and attendance using interactive pie charts and downloadable reports.
 
 ---
 
 ### 🧪 Lab & Resource Management
-![Lab Resources Demo](Videos/lab_resources.mp4)
+▶️ [Lab & Resources Demo](Videos/lab_resources.mp4)  
+Shows versioned lab manuals, resource filtering, and student access.
 
-> Shows versioned lab manuals, resource filtering, and student access.
-
----
-
-## 📸 Screenshots (Optional)
-
-> Screenshots can be added in a `Screenshots/` folder similar to videos.
-
----
 
 ## ⚙️ Installation (Localhost)
 
