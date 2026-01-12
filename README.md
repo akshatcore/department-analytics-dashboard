@@ -106,8 +106,25 @@ Displays marks and attendance using interactive pie charts and downloadable repo
 Shows versioned lab manuals, resource filtering, and student access.
 
 
-## ⚙️ Installation (Localhost)
-
-### 1️⃣ Clone Repository
-```bash
+📥 Installation (Localhost)
+1️⃣ Clone Repository
 git clone https://github.com/akshatcore/department-analytics-dashboard.git
+
+2️⃣ Move to Server Directory
+htdocs/department-dashboard
+
+3️⃣ Database Setup
+
+Import the provided .sql file into MySQL
+
+Configure credentials in:
+
+config/db.php
+
+4️⃣ Start Server
+
+Start Apache & MySQL via XAMPP
+
+Open in browser:
+
+http://localhost/department-dashboard/login.php
