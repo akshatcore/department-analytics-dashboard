@@ -1,0 +1,9 @@
+# Ignore real DB credentials
+config/db.php
+
+# Ignore uploads
+uploads/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
